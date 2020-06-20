@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VK searcher</string>
+    <string name="et_hint_text">Enter profile id</string>
+    <string name="search">Search</string>
+    <string name="result_common">Result will be here</string>
+    <string name="access_token">ab591fbaab591fbaab591fbab1ab2bba6daab59ab591fbaf5b0fe0a5a55488b5abc9069</string>
+    <string name="error_message">Error was occured, try one more time or later</string>
+</resources>

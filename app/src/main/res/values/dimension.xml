@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_padding">16dp</dimen>
+    <dimen name="vertical_padding">16dp</dimen>
+    <dimen name="error_message_size">25sp</dimen>
+    <dimen name="progress_bar_size_fixed_vertical">45dp</dimen>
+    <dimen name="progress_bar_size_fixed_horizontal">45dp</dimen>
+    <dimen name="progress_bar_margin">15dp</dimen>
+</resources>
